@@ -1,0 +1,434 @@
+{
+  "items": [
+    {
+      "description": "The following starters supports the v2 library.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Angular",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T09:18:01Z",
+            "owner": "supabase",
+            "repo": "supabase",
+            "stars": 107920
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Expo",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T09:18:01Z",
+            "owner": "supabase",
+            "repo": "supabase",
+            "stars": 107920
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Flutter",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T09:18:01Z",
+            "owner": "supabase",
+            "repo": "supabase",
+            "stars": 107920
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Next.js (TS)",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T09:18:01Z",
+            "owner": "supabase",
+            "repo": "supabase",
+            "stars": 107920
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Nuxt",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T09:18:01Z",
+            "owner": "supabase",
+            "repo": "supabase",
+            "stars": 107920
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Nuxt3",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T09:18:01Z",
+            "owner": "supabase",
+            "repo": "supabase",
+            "stars": 107920
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "React",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T09:18:01Z",
+            "owner": "supabase",
+            "repo": "supabase",
+            "stars": 107920
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Solid",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T09:18:01Z",
+            "owner": "supabase",
+            "repo": "supabase",
+            "stars": 107920
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Svelte",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T09:18:01Z",
+            "owner": "supabase",
+            "repo": "supabase",
+            "stars": 107920
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Svelte Kit",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T09:18:01Z",
+            "owner": "supabase",
+            "repo": "supabase",
+            "stars": 107920
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Vue 3",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T09:18:01Z",
+            "owner": "supabase",
+            "repo": "supabase",
+            "stars": 107920
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Next.js, Slack Clone",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T09:18:01Z",
+            "owner": "supabase",
+            "repo": "supabase",
+            "stars": 107920
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Svelte, Todo list",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T09:18:01Z",
+            "owner": "supabase",
+            "repo": "supabase",
+            "stars": 107920
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "React Native, Stripe Payments",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-05-12T19:01:31Z",
+            "owner": "supabase-community",
+            "repo": "expo-stripe-payments-with-supabase-functions",
+            "stars": 125
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Flutter, Stripe Payments",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2024-04-27T04:51:42Z",
+            "owner": "supabase-community",
+            "repo": "flutter-stripe-payments-with-supabase-functions",
+            "stars": 94
+          }
+        }
+      ],
+      "title": "Official Starters"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Extro",
+          "description": "Open source browser extension starter kit.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-26T11:53:06Z",
+            "owner": "turbostarter",
+            "repo": "extro",
+            "stars": 399
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SupaSasS Lite",
+          "description": "Open source Next.js SasS template (with 2FA, and example app)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-12-06T01:04:19Z",
+            "owner": "Razikus",
+            "repo": "supabase-nextjs-template",
+            "stars": 320
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Vuepabase",
+          "description": "Vue3 Supabase starter, with Pinia, Vue-router 4, Tailwind CSS, Vitest, Cypress and more.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2022-10-12T16:42:21Z",
+            "owner": "JMaylor",
+            "repo": "vuepabase",
+            "stars": 61
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SupaSocial",
+          "description": "React social media starter with auth, friend requests, profile pics, and example app (profile, friends, signin, leaderboard, and more pages).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-13T18:24:26Z",
+            "owner": "koji0701",
+            "repo": "supabase-react-social-media-starter",
+            "stars": 26
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RedwoodJS Supabase Quickstart",
+          "description": "Supabase Quickstart example app with RedwoodJS.",
+          "children": []
+        }
+      ],
+      "title": "Community Starters"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Supabase DB to Google Sheets",
+          "description": "Tool to pull Supabase data into Google Sheets.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-09-03T18:32:14Z",
+            "owner": "jadynekena",
+            "repo": "supabase-googlesheet",
+            "stars": 44
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Lovable Cloud to Supabase Exporter",
+          "description": "Migrate tables, users, and storage from Lovable Cloud to your own Supabase backend without password resets or manual CSV work.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-07T05:32:42Z",
+            "owner": "dreamlit-ai",
+            "repo": "lovable-cloud-to-supabase-exporter",
+            "stars": 38
+          }
+        }
+      ],
+      "title": "Data Migration Tools"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Supabase Cache Helpers",
+          "description": "Collection of framework specific Cache utilities for working with Supabase.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T18:00:18Z",
+            "owner": "psteinroe",
+            "repo": "supabase-cache-helpers",
+            "stars": 682
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Supabase automated self host",
+          "description": "Self-host Supabase with Caddy and Authelia. Just run ONE script.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-07-14T18:34:54Z",
+            "owner": "singh-inder",
+            "repo": "supabase-automated-self-host",
+            "stars": 494
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pharos AI",
+          "description": "Open-source real-time intelligence dashboard for geopolitical conflict tracking with interactive maps, OSINT feeds, and AI-powered briefs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-05-16T10:18:45Z",
+            "owner": "Juliusolsson05",
+            "repo": "pharos-ai",
+            "stars": 181
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Generate Supabase Database Types GitHub Action",
+          "description": "GitHub action to generate types based on your Supabase database.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2023-05-29T14:42:30Z",
+            "owner": "lyqht",
+            "repo": "generate-supabase-db-types-github-action",
+            "stars": 70
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Octokit-lite",
+          "description": "App to perform common use case GitHub operations on multiple repositories efficiently. Uses Supabase Auth and DB.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2024-10-06T09:29:51Z",
+            "owner": "lyqht",
+            "repo": "Octokit-lite",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bemi for Supabase JS",
+          "description": "Open-source platform for automatic data change tracking.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-11-07T17:37:06Z",
+            "owner": "BemiHQ",
+            "repo": "bemi-supabase-js",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Supabase DataFlows SMS Hook",
+          "description": "Send phone OTP verification via DataFlows SMS API. Australian alternative to Twilio for Supabase Auth.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-02-26T13:09:04Z",
+            "owner": "dataflows-au",
+            "repo": "supabase-sms-hook",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Community Tools"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T09:22:07.554Z",
+    "original_repository": "lyqht/awesome-supabase",
+    "original_repository_sha": "11d47fdfe4b7c639fc84543d092db45530d4fd86",
+    "enhanced_repository": "enhansome/enhansome-supabase",
+    "enhanced_repository_description": null,
+    "title": "Awesome Supabase with stars"
+  }
+}
