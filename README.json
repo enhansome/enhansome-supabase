@@ -10,12 +10,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
+            "homepage": "https://supabase.com",
             "id": 214587193,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T19:08:45Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-28T21:23:40Z",
+            "open_issues": 1059,
             "owner": "supabase",
             "repo": "supabase",
-            "stars": 108533
+            "stars": 108544,
+            "topics": [
+              "ai",
+              "alternative",
+              "auth",
+              "database",
+              "deno",
+              "embeddings",
+              "example",
+              "firebase",
+              "nextjs",
+              "oauth2",
+              "pgvector",
+              "postgis",
+              "postgres",
+              "postgresql",
+              "postgrest",
+              "realtime",
+              "supabase",
+              "vectors",
+              "websockets"
+            ]
           },
           "first_seen": "2026-08-28T20:10:41.352Z"
         },
@@ -26,12 +51,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
+            "homepage": "https://supabase.com",
             "id": 214587193,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T19:08:45Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-28T21:23:40Z",
+            "open_issues": 1059,
             "owner": "supabase",
             "repo": "supabase",
-            "stars": 108533
+            "stars": 108544,
+            "topics": [
+              "ai",
+              "alternative",
+              "auth",
+              "database",
+              "deno",
+              "embeddings",
+              "example",
+              "firebase",
+              "nextjs",
+              "oauth2",
+              "pgvector",
+              "postgis",
+              "postgres",
+              "postgresql",
+              "postgrest",
+              "realtime",
+              "supabase",
+              "vectors",
+              "websockets"
+            ]
           },
           "first_seen": "2026-08-28T20:10:41.352Z"
         },
@@ -42,12 +92,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
+            "homepage": "https://supabase.com",
             "id": 214587193,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T19:08:45Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-28T21:23:40Z",
+            "open_issues": 1059,
             "owner": "supabase",
             "repo": "supabase",
-            "stars": 108533
+            "stars": 108544,
+            "topics": [
+              "ai",
+              "alternative",
+              "auth",
+              "database",
+              "deno",
+              "embeddings",
+              "example",
+              "firebase",
+              "nextjs",
+              "oauth2",
+              "pgvector",
+              "postgis",
+              "postgres",
+              "postgresql",
+              "postgrest",
+              "realtime",
+              "supabase",
+              "vectors",
+              "websockets"
+            ]
           },
           "first_seen": "2026-08-28T20:10:41.352Z"
         },
@@ -58,12 +133,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
+            "homepage": "https://supabase.com",
             "id": 214587193,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T19:08:45Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-28T21:23:40Z",
+            "open_issues": 1059,
             "owner": "supabase",
             "repo": "supabase",
-            "stars": 108533
+            "stars": 108544,
+            "topics": [
+              "ai",
+              "alternative",
+              "auth",
+              "database",
+              "deno",
+              "embeddings",
+              "example",
+              "firebase",
+              "nextjs",
+              "oauth2",
+              "pgvector",
+              "postgis",
+              "postgres",
+              "postgresql",
+              "postgrest",
+              "realtime",
+              "supabase",
+              "vectors",
+              "websockets"
+            ]
           },
           "first_seen": "2026-08-28T20:10:41.352Z"
         },
@@ -74,12 +174,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
+            "homepage": "https://supabase.com",
             "id": 214587193,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T19:08:45Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-28T21:23:40Z",
+            "open_issues": 1059,
             "owner": "supabase",
             "repo": "supabase",
-            "stars": 108533
+            "stars": 108544,
+            "topics": [
+              "ai",
+              "alternative",
+              "auth",
+              "database",
+              "deno",
+              "embeddings",
+              "example",
+              "firebase",
+              "nextjs",
+              "oauth2",
+              "pgvector",
+              "postgis",
+              "postgres",
+              "postgresql",
+              "postgrest",
+              "realtime",
+              "supabase",
+              "vectors",
+              "websockets"
+            ]
           },
           "first_seen": "2026-08-28T20:10:41.352Z"
         },
@@ -90,12 +215,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
+            "homepage": "https://supabase.com",
             "id": 214587193,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T19:08:45Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-28T21:23:40Z",
+            "open_issues": 1059,
             "owner": "supabase",
             "repo": "supabase",
-            "stars": 108533
+            "stars": 108544,
+            "topics": [
+              "ai",
+              "alternative",
+              "auth",
+              "database",
+              "deno",
+              "embeddings",
+              "example",
+              "firebase",
+              "nextjs",
+              "oauth2",
+              "pgvector",
+              "postgis",
+              "postgres",
+              "postgresql",
+              "postgrest",
+              "realtime",
+              "supabase",
+              "vectors",
+              "websockets"
+            ]
           },
           "first_seen": "2026-08-28T20:10:41.352Z"
         },
@@ -106,12 +256,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
+            "homepage": "https://supabase.com",
             "id": 214587193,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T19:08:45Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-28T21:23:40Z",
+            "open_issues": 1059,
             "owner": "supabase",
             "repo": "supabase",
-            "stars": 108533
+            "stars": 108544,
+            "topics": [
+              "ai",
+              "alternative",
+              "auth",
+              "database",
+              "deno",
+              "embeddings",
+              "example",
+              "firebase",
+              "nextjs",
+              "oauth2",
+              "pgvector",
+              "postgis",
+              "postgres",
+              "postgresql",
+              "postgrest",
+              "realtime",
+              "supabase",
+              "vectors",
+              "websockets"
+            ]
           },
           "first_seen": "2026-08-28T20:10:41.352Z"
         },
@@ -122,12 +297,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
+            "homepage": "https://supabase.com",
             "id": 214587193,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T19:08:45Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-28T21:23:40Z",
+            "open_issues": 1059,
             "owner": "supabase",
             "repo": "supabase",
-            "stars": 108533
+            "stars": 108544,
+            "topics": [
+              "ai",
+              "alternative",
+              "auth",
+              "database",
+              "deno",
+              "embeddings",
+              "example",
+              "firebase",
+              "nextjs",
+              "oauth2",
+              "pgvector",
+              "postgis",
+              "postgres",
+              "postgresql",
+              "postgrest",
+              "realtime",
+              "supabase",
+              "vectors",
+              "websockets"
+            ]
           },
           "first_seen": "2026-08-28T20:10:41.352Z"
         },
@@ -138,12 +338,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
+            "homepage": "https://supabase.com",
             "id": 214587193,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T19:08:45Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-28T21:23:40Z",
+            "open_issues": 1059,
             "owner": "supabase",
             "repo": "supabase",
-            "stars": 108533
+            "stars": 108544,
+            "topics": [
+              "ai",
+              "alternative",
+              "auth",
+              "database",
+              "deno",
+              "embeddings",
+              "example",
+              "firebase",
+              "nextjs",
+              "oauth2",
+              "pgvector",
+              "postgis",
+              "postgres",
+              "postgresql",
+              "postgrest",
+              "realtime",
+              "supabase",
+              "vectors",
+              "websockets"
+            ]
           },
           "first_seen": "2026-08-28T20:10:41.352Z"
         },
@@ -154,12 +379,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
+            "homepage": "https://supabase.com",
             "id": 214587193,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T19:08:45Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-28T21:23:40Z",
+            "open_issues": 1059,
             "owner": "supabase",
             "repo": "supabase",
-            "stars": 108533
+            "stars": 108544,
+            "topics": [
+              "ai",
+              "alternative",
+              "auth",
+              "database",
+              "deno",
+              "embeddings",
+              "example",
+              "firebase",
+              "nextjs",
+              "oauth2",
+              "pgvector",
+              "postgis",
+              "postgres",
+              "postgresql",
+              "postgrest",
+              "realtime",
+              "supabase",
+              "vectors",
+              "websockets"
+            ]
           },
           "first_seen": "2026-08-28T20:10:41.352Z"
         },
@@ -170,12 +420,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
+            "homepage": "https://supabase.com",
             "id": 214587193,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T19:08:45Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-28T21:23:40Z",
+            "open_issues": 1059,
             "owner": "supabase",
             "repo": "supabase",
-            "stars": 108533
+            "stars": 108544,
+            "topics": [
+              "ai",
+              "alternative",
+              "auth",
+              "database",
+              "deno",
+              "embeddings",
+              "example",
+              "firebase",
+              "nextjs",
+              "oauth2",
+              "pgvector",
+              "postgis",
+              "postgres",
+              "postgresql",
+              "postgrest",
+              "realtime",
+              "supabase",
+              "vectors",
+              "websockets"
+            ]
           },
           "first_seen": "2026-08-28T20:10:41.352Z"
         },
@@ -186,12 +461,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
+            "homepage": "https://supabase.com",
             "id": 214587193,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T19:08:45Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-28T21:23:40Z",
+            "open_issues": 1059,
             "owner": "supabase",
             "repo": "supabase",
-            "stars": 108533
+            "stars": 108544,
+            "topics": [
+              "ai",
+              "alternative",
+              "auth",
+              "database",
+              "deno",
+              "embeddings",
+              "example",
+              "firebase",
+              "nextjs",
+              "oauth2",
+              "pgvector",
+              "postgis",
+              "postgres",
+              "postgresql",
+              "postgrest",
+              "realtime",
+              "supabase",
+              "vectors",
+              "websockets"
+            ]
           },
           "first_seen": "2026-08-28T20:10:41.352Z"
         },
@@ -202,12 +502,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
+            "homepage": "https://supabase.com",
             "id": 214587193,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T19:08:45Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-28T21:23:40Z",
+            "open_issues": 1059,
             "owner": "supabase",
             "repo": "supabase",
-            "stars": 108533
+            "stars": 108544,
+            "topics": [
+              "ai",
+              "alternative",
+              "auth",
+              "database",
+              "deno",
+              "embeddings",
+              "example",
+              "firebase",
+              "nextjs",
+              "oauth2",
+              "pgvector",
+              "postgis",
+              "postgres",
+              "postgresql",
+              "postgrest",
+              "realtime",
+              "supabase",
+              "vectors",
+              "websockets"
+            ]
           },
           "first_seen": "2026-08-28T20:10:41.352Z"
         },
@@ -218,12 +543,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Bring the Func(🕺)",
+            "homepage": null,
             "id": 472925722,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2026-05-12T19:01:31Z",
+            "open_issues": 2,
             "owner": "supabase-community",
             "repo": "expo-stripe-payments-with-supabase-functions",
-            "stars": 125
+            "stars": 125,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:10:41.352Z"
         },
@@ -234,12 +564,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 474667789,
             "language": "Dart",
+            "license": null,
             "last_commit": "2024-04-27T04:51:42Z",
+            "open_issues": 1,
             "owner": "supabase-community",
             "repo": "flutter-stripe-payments-with-supabase-functions",
-            "stars": 94
+            "stars": 94,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:10:41.352Z"
         }
@@ -256,12 +591,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open source browser extension starter kit 🧩",
+            "homepage": "https://turbostarter.dev",
             "id": 881051345,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-21T10:28:24Z",
+            "open_issues": 0,
             "owner": "turbostarter",
             "repo": "extro",
-            "stars": 403
+            "stars": 403,
+            "topics": [
+              "ai",
+              "boilerplate",
+              "browser-extension",
+              "chrome-extension",
+              "edge-extension",
+              "extension",
+              "firefox-addon",
+              "plasmo",
+              "react",
+              "shadcn",
+              "starter-kit",
+              "supabase",
+              "tailwindcss",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T20:10:41.352Z"
         },
@@ -272,12 +627,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A production-ready SaaS template built with Next.js 15, Supabase, and Tailwind CSS. Includes authentication, user management, file storage, task management demos, and secure RLS policies. Now with a complete React Native + Expo mobile app template! Easily customizable with pre-built themes, i18n support (EN/PL/ZH), and legal documents. ",
+            "homepage": "https://basicsass.razikus.com",
             "id": 924533493,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2025-12-06T01:04:19Z",
+            "open_issues": 1,
             "owner": "Razikus",
             "repo": "supabase-nextjs-template",
-            "stars": 320
+            "stars": 320,
+            "topics": [
+              "nextjs",
+              "react",
+              "sass",
+              "supabase",
+              "template"
+            ]
           },
           "first_seen": "2026-08-28T20:10:41.352Z"
         },
@@ -288,12 +654,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Vue3 + Supabase starter template",
+            "homepage": "https://vuepabase.netlify.app/",
             "id": 453548094,
             "language": "Vue",
+            "license": null,
             "last_commit": "2022-10-12T16:42:21Z",
+            "open_issues": 0,
             "owner": "JMaylor",
             "repo": "vuepabase",
-            "stars": 61
+            "stars": 61,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:10:41.352Z"
         },
@@ -304,12 +675,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official Supabase community starter. Social media template with opinionated modern frameworks (React, TypeScript, Zustand, etc)",
+            "homepage": null,
             "id": 987428774,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-07-13T18:24:26Z",
+            "open_issues": 0,
             "owner": "koji0701",
             "repo": "supabase-react-social-media-starter",
-            "stars": 26
+            "stars": 26,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:10:41.352Z"
         }
@@ -326,12 +702,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "In this project, you will learn how to pull datas from supabase to google sheets in a matter of minute",
+            "homepage": null,
             "id": 518183523,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2022-09-03T18:32:14Z",
+            "open_issues": 0,
             "owner": "jadynekena",
             "repo": "supabase-googlesheet",
-            "stars": 45
+            "stars": 45,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:10:41.352Z"
         },
@@ -342,12 +723,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Export your database from Lovable Cloud to Supabase",
+            "homepage": "https://dreamlit.ai/tools/lovable-cloud-to-supabase-exporter",
             "id": 1177254142,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-07T05:32:42Z",
+            "open_issues": 2,
             "owner": "dreamlit-ai",
             "repo": "lovable-cloud-to-supabase-exporter",
-            "stars": 39
+            "stars": 39,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:10:41.352Z"
         }
@@ -364,12 +750,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collection of framework specific Cache utilities for working with Supabase.",
+            "homepage": "http://supabase-cache-helpers.com/",
             "id": 524240327,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-14T17:35:01Z",
+            "open_issues": 63,
             "owner": "psteinroe",
             "repo": "supabase-cache-helpers",
-            "stars": 681
+            "stars": 681,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:10:41.352Z"
         },
@@ -380,12 +771,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Self-host Supabase with Nginx/Caddy and Authelia with just ONE bash script.",
+            "homepage": null,
             "id": 895417239,
             "language": "Shell",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-25T08:49:57Z",
+            "open_issues": 1,
             "owner": "singh-inder",
             "repo": "supabase-automated-self-host",
-            "stars": 500
+            "stars": 500,
+            "topics": [
+              "authelia",
+              "caddy",
+              "docker",
+              "nginx",
+              "self-hosted",
+              "supabase"
+            ]
           },
           "first_seen": "2026-08-28T20:10:41.352Z"
         },
@@ -396,12 +799,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open-source OSINT intelligence dashboard tracking the Iran conflict in real time — live DeckGL/MapLibre conflict map, 30 bias-labeled feeds, actor dossiers, and daily briefs. Live at conflicts.app.",
+            "homepage": "https://conflicts.app/",
             "id": 1170701406,
             "language": "TypeScript",
+            "license": "AGPL-3.0",
             "last_commit": "2026-05-16T10:18:45Z",
+            "open_issues": 24,
             "owner": "Juliusolsson05",
             "repo": "pharos-ai",
-            "stars": 180
+            "stars": 180,
+            "topics": [
+              "conflict-tracking",
+              "deckgl",
+              "geopolitics",
+              "intelligence",
+              "maplibre",
+              "nextjs",
+              "osint"
+            ]
           },
           "first_seen": "2026-08-28T20:10:41.352Z"
         },
@@ -412,12 +828,20 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "GitHub Action to generate Supabase Database Types",
+            "homepage": null,
             "id": 480399710,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2023-05-29T14:42:30Z",
+            "open_issues": 6,
             "owner": "lyqht",
             "repo": "generate-supabase-db-types-github-action",
-            "stars": 70
+            "stars": 70,
+            "topics": [
+              "github-actions",
+              "hacktoberfest"
+            ]
           },
           "first_seen": "2026-08-28T20:10:41.352Z"
         },
@@ -428,12 +852,25 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "🐙 Web UI to perform GitHub operations on multiple repositories",
+            "homepage": "https://octokit-lite.vercel.app",
             "id": 503176329,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2024-10-06T09:29:51Z",
+            "open_issues": 20,
             "owner": "lyqht",
             "repo": "Octokit-lite",
-            "stars": 17
+            "stars": 17,
+            "topics": [
+              "api-routes",
+              "dropshift",
+              "nextjs",
+              "octokit-js",
+              "supabase",
+              "tailwindcss",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T20:10:41.352Z"
         },
@@ -444,12 +881,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Automatic data change tracking for Supabase JS",
+            "homepage": "https://bemi.io",
             "id": 820435407,
             "language": "JavaScript",
+            "license": "LGPL-3.0",
             "last_commit": "2025-11-07T17:37:06Z",
+            "open_issues": 0,
             "owner": "BemiHQ",
             "repo": "bemi-supabase-js",
-            "stars": 9
+            "stars": 9,
+            "topics": [
+              "audit-log",
+              "audit-trail",
+              "data-versioning",
+              "postgresql",
+              "supabase",
+              "supabase-db",
+              "supabase-js"
+            ]
           },
           "first_seen": "2026-08-28T20:10:41.352Z"
         },
@@ -460,12 +910,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Send OTP verification messages via DataFlows SMS API for Supabase Auth",
+            "homepage": null,
             "id": 1167584968,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-02-26T13:09:04Z",
+            "open_issues": 0,
             "owner": "dataflows-au",
             "repo": "supabase-sms-hook",
-            "stars": 0
+            "stars": 0,
+            "topics": [
+              "australia",
+              "authentication",
+              "edge-functions",
+              "otp",
+              "sms",
+              "supabase",
+              "supabase-auth",
+              "supabase-js",
+              "twilio-alternative"
+            ]
           },
           "first_seen": "2026-08-28T20:10:41.352Z"
         }
@@ -474,15 +939,24 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T20:10:41.352Z",
+    "last_updated": "2026-08-29T04:43:57.801Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Official awesome-list of Supabase Starters & Resources ⚡️ ",
+      "homepage": null,
       "id": 545897130,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2026-07-19T02:12:23Z",
+      "open_issues": 8,
       "owner": "lyqht",
       "repo": "awesome-supabase",
-      "stars": 480
+      "stars": 480,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "supabase"
+      ]
     },
     "original_repository_sha": "11d47fdfe4b7c639fc84543d092db45530d4fd86",
     "enhanced_repository": "enhansome/enhansome-supabase",
