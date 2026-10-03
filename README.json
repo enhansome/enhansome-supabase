@@ -6,7 +6,7 @@
         {
           "node_type": "item",
           "title": "Angular",
-          "description": null,
+          "description": "supabase/supabase",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -15,11 +15,11 @@
             "id": 214587193,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-02T14:40:27Z",
-            "open_issues": 1123,
+            "last_commit": "2026-10-02T20:16:57Z",
+            "open_issues": 1132,
             "owner": "supabase",
             "repo": "supabase",
-            "stars": 111008,
+            "stars": 111029,
             "topics": [
               "ai",
               "alternative",
@@ -47,7 +47,7 @@
         {
           "node_type": "item",
           "title": "Expo",
-          "description": null,
+          "description": "supabase/supabase",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -56,11 +56,11 @@
             "id": 214587193,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-02T14:40:27Z",
-            "open_issues": 1123,
+            "last_commit": "2026-10-02T20:16:57Z",
+            "open_issues": 1132,
             "owner": "supabase",
             "repo": "supabase",
-            "stars": 111008,
+            "stars": 111029,
             "topics": [
               "ai",
               "alternative",
@@ -88,7 +88,7 @@
         {
           "node_type": "item",
           "title": "Flutter",
-          "description": null,
+          "description": "supabase/supabase",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -97,11 +97,11 @@
             "id": 214587193,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-02T14:40:27Z",
-            "open_issues": 1123,
+            "last_commit": "2026-10-02T20:16:57Z",
+            "open_issues": 1132,
             "owner": "supabase",
             "repo": "supabase",
-            "stars": 111008,
+            "stars": 111029,
             "topics": [
               "ai",
               "alternative",
@@ -129,7 +129,7 @@
         {
           "node_type": "item",
           "title": "Next.js (TS)",
-          "description": null,
+          "description": "supabase/supabase",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -138,11 +138,11 @@
             "id": 214587193,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-02T14:40:27Z",
-            "open_issues": 1123,
+            "last_commit": "2026-10-02T20:16:57Z",
+            "open_issues": 1132,
             "owner": "supabase",
             "repo": "supabase",
-            "stars": 111008,
+            "stars": 111029,
             "topics": [
               "ai",
               "alternative",
@@ -170,7 +170,7 @@
         {
           "node_type": "item",
           "title": "Nuxt",
-          "description": null,
+          "description": "supabase/supabase",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -179,11 +179,11 @@
             "id": 214587193,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-02T14:40:27Z",
-            "open_issues": 1123,
+            "last_commit": "2026-10-02T20:16:57Z",
+            "open_issues": 1132,
             "owner": "supabase",
             "repo": "supabase",
-            "stars": 111008,
+            "stars": 111029,
             "topics": [
               "ai",
               "alternative",
@@ -211,7 +211,7 @@
         {
           "node_type": "item",
           "title": "Nuxt3",
-          "description": null,
+          "description": "supabase/supabase",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -220,11 +220,11 @@
             "id": 214587193,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-02T14:40:27Z",
-            "open_issues": 1123,
+            "last_commit": "2026-10-02T20:16:57Z",
+            "open_issues": 1132,
             "owner": "supabase",
             "repo": "supabase",
-            "stars": 111008,
+            "stars": 111029,
             "topics": [
               "ai",
               "alternative",
@@ -252,7 +252,7 @@
         {
           "node_type": "item",
           "title": "React",
-          "description": null,
+          "description": "supabase/supabase",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -261,11 +261,11 @@
             "id": 214587193,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-02T14:40:27Z",
-            "open_issues": 1123,
+            "last_commit": "2026-10-02T20:16:57Z",
+            "open_issues": 1132,
             "owner": "supabase",
             "repo": "supabase",
-            "stars": 111008,
+            "stars": 111029,
             "topics": [
               "ai",
               "alternative",
@@ -293,7 +293,7 @@
         {
           "node_type": "item",
           "title": "Solid",
-          "description": null,
+          "description": "supabase/supabase",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -302,11 +302,11 @@
             "id": 214587193,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-02T14:40:27Z",
-            "open_issues": 1123,
+            "last_commit": "2026-10-02T20:16:57Z",
+            "open_issues": 1132,
             "owner": "supabase",
             "repo": "supabase",
-            "stars": 111008,
+            "stars": 111029,
             "topics": [
               "ai",
               "alternative",
@@ -334,7 +334,7 @@
         {
           "node_type": "item",
           "title": "Svelte",
-          "description": null,
+          "description": "supabase/supabase",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -343,11 +343,11 @@
             "id": 214587193,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-02T14:40:27Z",
-            "open_issues": 1123,
+            "last_commit": "2026-10-02T20:16:57Z",
+            "open_issues": 1132,
             "owner": "supabase",
             "repo": "supabase",
-            "stars": 111008,
+            "stars": 111029,
             "topics": [
               "ai",
               "alternative",
@@ -375,7 +375,7 @@
         {
           "node_type": "item",
           "title": "Svelte Kit",
-          "description": null,
+          "description": "supabase/supabase",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -384,11 +384,11 @@
             "id": 214587193,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-02T14:40:27Z",
-            "open_issues": 1123,
+            "last_commit": "2026-10-02T20:16:57Z",
+            "open_issues": 1132,
             "owner": "supabase",
             "repo": "supabase",
-            "stars": 111008,
+            "stars": 111029,
             "topics": [
               "ai",
               "alternative",
@@ -416,7 +416,7 @@
         {
           "node_type": "item",
           "title": "Vue 3",
-          "description": null,
+          "description": "supabase/supabase",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -425,11 +425,11 @@
             "id": 214587193,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-02T14:40:27Z",
-            "open_issues": 1123,
+            "last_commit": "2026-10-02T20:16:57Z",
+            "open_issues": 1132,
             "owner": "supabase",
             "repo": "supabase",
-            "stars": 111008,
+            "stars": 111029,
             "topics": [
               "ai",
               "alternative",
@@ -457,7 +457,7 @@
         {
           "node_type": "item",
           "title": "Next.js, Slack Clone",
-          "description": null,
+          "description": "supabase/supabase",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -466,11 +466,11 @@
             "id": 214587193,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-02T14:40:27Z",
-            "open_issues": 1123,
+            "last_commit": "2026-10-02T20:16:57Z",
+            "open_issues": 1132,
             "owner": "supabase",
             "repo": "supabase",
-            "stars": 111008,
+            "stars": 111029,
             "topics": [
               "ai",
               "alternative",
@@ -498,7 +498,7 @@
         {
           "node_type": "item",
           "title": "Svelte, Todo list",
-          "description": null,
+          "description": "supabase/supabase",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -507,11 +507,11 @@
             "id": 214587193,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-02T14:40:27Z",
-            "open_issues": 1123,
+            "last_commit": "2026-10-02T20:16:57Z",
+            "open_issues": 1132,
             "owner": "supabase",
             "repo": "supabase",
-            "stars": 111008,
+            "stars": 111029,
             "topics": [
               "ai",
               "alternative",
@@ -539,7 +539,7 @@
         {
           "node_type": "item",
           "title": "React Native, Stripe Payments",
-          "description": null,
+          "description": "supabase-community/expo-stripe-payments-with-supabase-functions",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -560,7 +560,7 @@
         {
           "node_type": "item",
           "title": "Flutter, Stripe Payments",
-          "description": null,
+          "description": "supabase-community/flutter-stripe-payments-with-supabase-functions",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -808,7 +808,7 @@
             "open_issues": 24,
             "owner": "Juliusolsson05",
             "repo": "pharos-ai",
-            "stars": 183,
+            "stars": 182,
             "topics": [
               "conflict-tracking",
               "deckgl",
@@ -939,7 +939,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T14:42:02.782Z",
+    "last_updated": "2026-10-03T05:09:05.839Z",
     "original_repository_info": {
       "archived": false,
       "description": "Official awesome-list of Supabase Starters & Resources ⚡️ ",
