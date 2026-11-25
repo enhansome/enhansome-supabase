@@ -22,25 +22,26 @@ To **enhance** this list, please refer to [CONTRIBUTING.md](CONTRIBUTING.md).
 
 The following starters supports the `@supabase/supabase-js` v2 library.
 
-* [Angular](https://github.com/supabase/supabase/tree/master/examples/user-management/angular-user-management) ⭐ 115,369 | 🐛 1,306 | 🌐 TypeScript | 📅 2026-11-24 - ![auth](https://img.shields.io/badge/-auth-informational)
-* [Expo](https://github.com/supabase/supabase/tree/master/examples/user-management/expo-user-management) ⭐ 115,369 | 🐛 1,306 | 🌐 TypeScript | 📅 2026-11-24 - ![auth](https://img.shields.io/badge/-auth-informational)
-* [Flutter](https://github.com/supabase/supabase/tree/master/examples/user-management/flutter-user-management) ⭐ 115,369 | 🐛 1,306 | 🌐 TypeScript | 📅 2026-11-24 - ![auth](https://img.shields.io/badge/-auth-informational)
-* [Next.js (TS)](https://github.com/supabase/supabase/tree/master/examples/user-management/nextjs-user-management) ⭐ 115,369 | 🐛 1,306 | 🌐 TypeScript | 📅 2026-11-24 - ![auth](https://img.shields.io/badge/-auth-informational)
-* [Nuxt](https://github.com/supabase/supabase/tree/master/examples/user-management/nuxtjs-user-management) ⭐ 115,369 | 🐛 1,306 | 🌐 TypeScript | 📅 2026-11-24 - ![auth](https://img.shields.io/badge/-auth-informational)
-* [Nuxt3](https://github.com/supabase/supabase/tree/master/examples/user-management/nuxt3-user-management) ⭐ 115,369 | 🐛 1,306 | 🌐 TypeScript | 📅 2026-11-24 - ![auth](https://img.shields.io/badge/-auth-informational)
-* [React](https://github.com/supabase/supabase/tree/master/examples/user-management/react-user-management) ⭐ 115,369 | 🐛 1,306 | 🌐 TypeScript | 📅 2026-11-24 - ![auth](https://img.shields.io/badge/-auth-informational)
-* [Solid](https://github.com/supabase/supabase/tree/master/examples/user-management/solid-user-management) ⭐ 115,369 | 🐛 1,306 | 🌐 TypeScript | 📅 2026-11-24 - ![auth](https://img.shields.io/badge/-auth-informational)
-* [Svelte](https://github.com/supabase/supabase/tree/master/examples/user-management/svelte-user-management) ⭐ 115,369 | 🐛 1,306 | 🌐 TypeScript | 📅 2026-11-24 - ![auth](https://img.shields.io/badge/-auth-informational)
-* [Svelte Kit](https://github.com/supabase/supabase/tree/master/examples/user-management/sveltekit-user-management) ⭐ 115,369 | 🐛 1,306 | 🌐 TypeScript | 📅 2026-11-24 - ![auth](https://img.shields.io/badge/-auth-informational)
-* [Vue 3](https://github.com/supabase/supabase/tree/master/examples/user-management/vue3-user-management) ⭐ 115,369 | 🐛 1,306 | 🌐 TypeScript | 📅 2026-11-24 - ![auth](https://img.shields.io/badge/-auth-informational)
-* [Next.js, Slack Clone](https://github.com/supabase/supabase/tree/master/examples/slack-clone/nextjs-slack-clone) ⭐ 115,369 | 🐛 1,306 | 🌐 TypeScript | 📅 2026-11-24 - ![realtime](https://img.shields.io/badge/-realtime-orange)
-* [Svelte, Todo list](https://github.com/supabase/supabase/tree/master/examples/todo-list/sveltejs-todo-list) ⭐ 115,369 | 🐛 1,306 | 🌐 TypeScript | 📅 2026-11-24 - ![database](https://img.shields.io/badge/-database-9cf)
+* [Angular](https://github.com/supabase/supabase/tree/master/examples/user-management/angular-user-management) ⭐ 115,480 | 🐛 1,336 | 🌐 TypeScript | 📅 2026-11-25 - ![auth](https://img.shields.io/badge/-auth-informational)
+* [Expo](https://github.com/supabase/supabase/tree/master/examples/user-management/expo-user-management) ⭐ 115,480 | 🐛 1,336 | 🌐 TypeScript | 📅 2026-11-25 - ![auth](https://img.shields.io/badge/-auth-informational)
+* [Flutter](https://github.com/supabase/supabase/tree/master/examples/user-management/flutter-user-management) ⭐ 115,480 | 🐛 1,336 | 🌐 TypeScript | 📅 2026-11-25 - ![auth](https://img.shields.io/badge/-auth-informational)
+* [Next.js (TS)](https://github.com/supabase/supabase/tree/master/examples/user-management/nextjs-user-management) ⭐ 115,480 | 🐛 1,336 | 🌐 TypeScript | 📅 2026-11-25 - ![auth](https://img.shields.io/badge/-auth-informational)
+* [Nuxt](https://github.com/supabase/supabase/tree/master/examples/user-management/nuxtjs-user-management) ⭐ 115,480 | 🐛 1,336 | 🌐 TypeScript | 📅 2026-11-25 - ![auth](https://img.shields.io/badge/-auth-informational)
+* [Nuxt3](https://github.com/supabase/supabase/tree/master/examples/user-management/nuxt3-user-management) ⭐ 115,480 | 🐛 1,336 | 🌐 TypeScript | 📅 2026-11-25 - ![auth](https://img.shields.io/badge/-auth-informational)
+* [React](https://github.com/supabase/supabase/tree/master/examples/user-management/react-user-management) ⭐ 115,480 | 🐛 1,336 | 🌐 TypeScript | 📅 2026-11-25 - ![auth](https://img.shields.io/badge/-auth-informational)
+* [Solid](https://github.com/supabase/supabase/tree/master/examples/user-management/solid-user-management) ⭐ 115,480 | 🐛 1,336 | 🌐 TypeScript | 📅 2026-11-25 - ![auth](https://img.shields.io/badge/-auth-informational)
+* [Svelte](https://github.com/supabase/supabase/tree/master/examples/user-management/svelte-user-management) ⭐ 115,480 | 🐛 1,336 | 🌐 TypeScript | 📅 2026-11-25 - ![auth](https://img.shields.io/badge/-auth-informational)
+* [Svelte Kit](https://github.com/supabase/supabase/tree/master/examples/user-management/sveltekit-user-management) ⭐ 115,480 | 🐛 1,336 | 🌐 TypeScript | 📅 2026-11-25 - ![auth](https://img.shields.io/badge/-auth-informational)
+* [Vue 3](https://github.com/supabase/supabase/tree/master/examples/user-management/vue3-user-management) ⭐ 115,480 | 🐛 1,336 | 🌐 TypeScript | 📅 2026-11-25 - ![auth](https://img.shields.io/badge/-auth-informational)
+* [Next.js, Slack Clone](https://github.com/supabase/supabase/tree/master/examples/slack-clone/nextjs-slack-clone) ⭐ 115,480 | 🐛 1,336 | 🌐 TypeScript | 📅 2026-11-25 - ![realtime](https://img.shields.io/badge/-realtime-orange)
+* [Svelte, Todo list](https://github.com/supabase/supabase/tree/master/examples/todo-list/sveltejs-todo-list) ⭐ 115,480 | 🐛 1,336 | 🌐 TypeScript | 📅 2026-11-25 - ![database](https://img.shields.io/badge/-database-9cf)
 * [React Native, Stripe Payments](https://github.com/supabase-community/expo-stripe-payments-with-supabase-functions) ⭐ 125 | 🐛 2 | 🌐 TypeScript | 📅 2026-05-12 - ![edge functions](https://img.shields.io/badge/-edge%20functions-darkgreen)
 * [Flutter, Stripe Payments](https://github.com/supabase-community/flutter-stripe-payments-with-supabase-functions) ⭐ 96 | 🐛 0 | 🌐 Dart | 📅 2026-10-01 - ![edge functions](https://img.shields.io/badge/-edge%20functions-darkgreen)
 
 ## Community Starters
 
 * [Extro](https://github.com/turbostarter/extro) ⭐ 413 | 🐛 0 | 🌐 TypeScript | 📅 2026-10-13 - Open source browser extension starter kit.
+* [Hikari](https://github.com/coremvp/Hikari) ⭐ 389 | 🐛 5 | 🌐 TypeScript | 📅 2026-10-09 - Open source Next.js starter with Supabase Auth, Stripe subscriptions, docs and blog.
 * [SupaSasS Lite](https://github.com/Razikus/supabase-nextjs-template) ⭐ 319 | 🐛 2 | 🌐 TypeScript | 📅 2025-12-06 - Open source Next.js SasS template (with 2FA, and example app)
 * [Vuepabase](https://github.com/JMaylor/vuepabase) ⭐ 61 | 🐛 0 | 🌐 Vue | 📅 2022-10-12 - Vue3 Supabase starter, with Pinia, Vue-router 4, Tailwind CSS, Vitest, Cypress and more.
 * [SupaSocial](https://github.com/koji0701/supabase-react-social-media-starter/tree/main) ⭐ 27 | 🐛 0 | 🌐 TypeScript | 📅 2026-07-13 - React social media starter with auth, friend requests, profile pics, and example app (profile, friends, signin, leaderboard, and more pages).
@@ -52,7 +53,7 @@ The following starters supports the `@supabase/supabase-js` v2 library.
 ## Data Migration Tools
 
 * [Supabase DB to Google Sheets](https://github.com/jadynekena/supabase-googlesheet) ⭐ 45 | 🐛 1 | 🌐 JavaScript | 📅 2026-11-12 - Tool to pull Supabase data into Google Sheets.
-* [Lovable Cloud to Supabase Exporter](https://github.com/dreamlit-ai/lovable-cloud-to-supabase-exporter) ⭐ 45 | 🐛 2 | 🌐 TypeScript | 📅 2026-11-23 - Migrate tables, users, and storage from Lovable Cloud to your own Supabase backend without password resets or manual CSV work.
+* [Lovable Cloud to Supabase Exporter](https://github.com/dreamlit-ai/lovable-cloud-to-supabase-exporter) ⭐ 45 | 🐛 4 | 🌐 TypeScript | 📅 2026-11-25 - Migrate tables, users, and storage from Lovable Cloud to your own Supabase backend without password resets or manual CSV work.
 * [Supabase Schema](https://supabase-schema.vercel.app/) - Generate SQL scripts and database diagram with this handy tool. No sensitive information is required, only need the project url + anonymous key.
 * [Heroku to Supabase Importer](https://migrate.supabase.com/) - Given Heroku is ending free-tier support soon, if you have any PostgreSQL DB that you want to continue supporting on your projects, migrating to Supabase will be a good choice. With this tool, it will be a breeze to migrate over. Here's [a guide](https://supabase.com/docs/guides/migrations/heroku) with a video for this migration process.
 * [Retool REST API data generator](https://retool.com/api-generator) - Tool to generate structured data to be inserted into your PostgresDB.
@@ -65,7 +66,8 @@ The following starters supports the `@supabase/supabase-js` v2 library.
 
 ## Community Tools
 
-* [Supabase Cache Helpers](https://github.com/psteinroe/supabase-cache-helpers) ⭐ 683 | 🐛 64 | 🌐 TypeScript | 📅 2026-11-22 - Collection of framework specific Cache utilities for working with Supabase.
+* [Reylo](https://github.com/reylosql/reylo) ⭐ 1,708 | 🐛 25 | 🌐 Rust | 📅 2026-11-25 - Import .sql files into TypeScript with types inferred from the Supabase database, and run them through postgres.js or pg.
+* [Supabase Cache Helpers](https://github.com/psteinroe/supabase-cache-helpers) ⭐ 682 | 🐛 64 | 🌐 TypeScript | 📅 2026-11-25 - Collection of framework specific Cache utilities for working with Supabase.
 * [Supabase automated self host](https://github.com/singh-inder/supabase-automated-self-host) ⭐ 508 | 🐛 1 | 🌐 Shell | 📅 2026-11-24 - Self-host Supabase with Caddy and Authelia. Just run ONE script.
 * [Pharos AI](https://github.com/Juliusolsson05/pharos-ai) ⭐ 188 | 🐛 24 | 🌐 TypeScript | 📅 2026-05-16 - Open-source real-time intelligence dashboard for geopolitical conflict tracking with interactive maps, OSINT feeds, and AI-powered briefs.
 * [Generate Supabase Database Types GitHub Action](https://github.com/lyqht/generate-supabase-db-types-github-action) ⚠️ Archived - GitHub action to generate types based on your Supabase database.
@@ -103,12 +105,14 @@ The following starters supports the `@supabase/supabase-js` v2 library.
 
 ## Other interesting articles
 
+* [Self-Hosted Supabase in Production](https://github.com/shsunmoonlee/self-hosted-supabase) ⭐ 4 | 🐛 0 | 🌐 Shell | 📅 2026-10-24 - Handbook for running self-hosted Supabase after install, covering backups, upgrades, hardening and monitoring, with read-only check scripts.
 * [How to market to developers on Twitter: Learnings from 4 months of Supabase feed](https://www.developermarkepear.com/blog/developer-marketing-on-social-media-twitter-supabase) - Analyzes growth marketing strategy of Supabase, especially on Twitter.
 * [How Fleeting Notes Migrated 1000+ Users from Firebase to Supabase (Stripe, Firebase, Supabase)](https://fleetingnotes.app/posts/migrating-from-firebase-to-supabase/) - Walks through the process of how Fleeting Notes (a note-taking application) migrated from Firebase to Supabase in terms of Stripe integration and its databases.
 * [Ultimate guide to testing on Supabase using pgTAP](https://usebasejump.com/blog/testing-on-supabase-with-pgtap) - How to test RLS policies and requests to Supabase.
 * [Migrating from Firebase to Supabase: Lessons Learned](https://emergence-engineering.com/blog/firestore-supabase-migration) - A detailed walkthrough of the migration workflow in terms of the various aspects of the BaaS, and their differences in terms of realtime subscriptions and data types.
 * [Supabase vs Firebase: Choosing the Right Backend for Your Project](https://www.jakeprins.com/blog/supabase-vs-firebase-2024) - A detailed comparison between Supabase and Firebase. Discover the key differences between the two platforms and the advantages of choosing Supabase over Firebase.
+* [Supabase's Oct 30 Grants Change: What Breaks, and the Fix That Leaks](https://shipsealed.com/rls/supabase-october-30-grants-change/) - Why new tables return 42501 after Oct 30, the bulk GRANT that exposes RLS-off tables, and the migration pattern that works.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-25._
